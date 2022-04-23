@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+}
+.pokemon-container{
+    margin-left: auto;
+    margin-right: auto;
+}
